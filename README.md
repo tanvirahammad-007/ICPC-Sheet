@@ -21,4 +21,4 @@ This repository contains the solved problems from the **ICPC Sheet** of **Codefo
 - Prepare for ICPC and competitive programming  
 - Keep all solved problems in one place  
 
-<p align="center">"Happy Coding 🚀"</p>
+## Happy Coding 🚀
